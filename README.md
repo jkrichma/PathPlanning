@@ -2,7 +2,7 @@
 # Jeff Krichmar, April, 2021
 # University of California, Irvine
 
-This repository contains the MATLAB scripts to run the path planning algoritms in the "Strategy Variation due to Cost of Traversal" section of our TopiCS paper.
+This repository contains the MATLAB scripts to run the path planning algorithms in the "Strategy Variation due to Cost of Traversal" section of our TopiCS paper.
 
 To generate these results:
 1) generateSimMaps.m - will create the maps shown in Figure 2.  Note these maps are already in the repository.
